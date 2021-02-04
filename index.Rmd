@@ -1,0 +1,15 @@
+---
+title: "Hyunsung Kim"
+image: "profile.jpg"
+links:
+  - label: Blog
+    url: "https://statkim.github.io/"
+  - label: GitHub
+    url: "https://github.com/statKim"
+  - label: Email
+    url: "mailto:hyunsung1021@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+MS Student in Statistics
